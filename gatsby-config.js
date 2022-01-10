@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bacon Brittle`,
-    description: `Vermont Maple Smoked Bacon, Bacon Brittle`,
+    title: `Dark Espresso Toffee`,
+    description: `Hints of Coffee & Rich Chocolate`,
     author: `@yesnotnode`,
-    siteUrl: `https://baconbrittle.com`,
+    siteUrl: `https://darkespressotoffee.com`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
