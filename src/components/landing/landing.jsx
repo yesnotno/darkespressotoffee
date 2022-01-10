@@ -155,7 +155,7 @@ const Landing = () => {
 
 return (
     <>
-    <Go href="https://www.cstsweets.com/collections/peanut-butter-brittle/products/bacon-brittle">
+    <Go href="https://www.cstsweets.com/collections/toffee/products/dark-espresso-toffee">
     <Photo>
         <ProductPhoto/>
     </Photo>
